@@ -120,7 +120,7 @@ Practical implementation of Automata Theory concepts using Python.
 
 A video explaining the implementation and working of the programs is available below:
 
-**[▶️ Watch the Code Explanation Video]([https://drive.google.com/file/d/1SedLipHz87BFB5Wznt77pMU43id1c6LF/view?usp=drivesdk](https://drive.google.com/file/d/1LCg1FceHT9D2XXJ_Cf2sZgnWS-9wiCjj/view?usp=sharing))**
+**[▶️ Watch the Code Explanation Video](https://drive.google.com/file/d/1SedLipHz87BFB5Wznt77pMU43id1c6LF/view?usp=drivesdk](https://drive.google.com/file/d/1LCg1FceHT9D2XXJ_Cf2sZgnWS-9wiCjj/view?usp=sharing)**
 
 ---
 
