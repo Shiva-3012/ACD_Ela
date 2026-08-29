@@ -99,10 +99,11 @@ The program generates the automata representations and allows binary strings to 
 | Feature                            | DFA         | NFA                    |
 | ---------------------------------- | ----------- | ---------------------- |
 | Number of transitions for an input | Exactly one | Zero, one, or multiple |
-| Multiple paths                     | ❌           | ✅                      |
-| ε-transitions                      | ❌           | Possible in ε-NFA      |
-| Deterministic                      | ✅           | ❌                      |
+| Multiple paths                     | ❌           | ✅                   |
+| ε-transitions                      | ❌           | Possible in ε-NFA     |
+| Deterministic                      | ✅           | ❌                   |
 | Expressive power                   | Same        | Same                   |
+
 Both DFA and NFA recognize regular languages.
 ##🎯 Learning Objectives
 
