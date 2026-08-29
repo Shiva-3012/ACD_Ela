@@ -105,6 +105,7 @@ The program generates the automata representations and allows binary strings to 
 | Expressive power                   | Same        | Same                   |
 
 Both DFA and NFA recognize regular languages.
+
 ##🎯 Learning Objectives
 
 Through this project, we aim to understand:
@@ -117,6 +118,7 @@ How NFA can be converted into DFA.
 How transition tables are generated.
 How automata diagrams can be generated programmatically.
 Practical implementation of Automata Theory concepts using Python.
+
 ## 🎥 Code Explanation
 
 A video explaining the implementation and working of the programs is available below:
